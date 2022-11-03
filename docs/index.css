@@ -23,6 +23,15 @@ body {
 h1 {
 	font-size: 46px;
 }
+
+a {
+	color: #608cfb;
+	text-decoration: none;
+}
+a:hover {
+	color: #4173f1;
+}
+
 .magic {
 	width: 38vmin;
 	position: relative;
